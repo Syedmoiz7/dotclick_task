@@ -6,10 +6,12 @@ function Design() {
                 <div className="heading">
                    <h1>LODGN</h1> 
                 </div>
-                <div className='fourDivs greenfont'>Current Request</div>
+
+                <div className='fourDivs greenfont'>Current request</div>
                 <div  className='fourDivs'>Ongoing stays</div>
                 <div  className='fourDivs'>Previous stays</div>
                 <div  className='fourDivs'>Reports</div>
+                
             </div>
 
             <div className="rightCont cont">
